@@ -34,7 +34,3 @@ An AI-powered application for generating personalized thank-you letters and cust
    - [OpenAI API](https://platform.openai.com/)
    - [ElevenLabs API](https://elevenlabs.io/)
    - [Suno API](https://suno.ai/)
-3. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/custom-text-audio-generator.git
-   cd custom-text-audio-generator
