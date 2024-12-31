@@ -1,4 +1,4 @@
-# streamlit run C:\Users\user\Desktop\psh\project\MelodyGram\new_main.py
+# streamlit run C:\Users\user\Desktop\psh\project\MelodyGram\main.py
 import streamlit as st
 from func import *
 
