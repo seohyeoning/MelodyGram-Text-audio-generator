@@ -1,6 +1,6 @@
 # streamlit run C:\Users\user\Desktop\psh\project\MelodyGram\new_main.py
 import streamlit as st
-from new_func import *
+from func import *
 
 import os
 from dotenv import load_dotenv
