@@ -3,3 +3,4 @@ openai==0.28.0
 pydub==0.25.1
 python-dotenv==1.0.0
 elevenlabs
+Pillow==9.3.0
